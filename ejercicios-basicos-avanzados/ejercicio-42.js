@@ -3,10 +3,10 @@
 // Retorna el array resultante.
 
 const fantasticFour = [
-  "La antorcha humana",
-  "Mr. Fantástico",
-  "La mujer invisible",
-  "La cosa",
+    "La antorcha humana",
+    "Mr. Fantástico",
+    "La mujer invisible",
+    "La cosa",
 ];
 
 function swap(array, index1, index2) {
